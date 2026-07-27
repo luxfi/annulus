@@ -1,6 +1,6 @@
 module github.com/luxfi/annulus
 
-go 1.23.0
+go 1.26.5
 
 require golang.org/x/crypto v0.41.0
 
